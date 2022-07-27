@@ -1,1 +1,1 @@
-# Random_qoutes_with_speech_synthesis-
+# Random_quotes_with_speech_synthesis-
